@@ -96,6 +96,14 @@ Ele irá solicitar o local onde deseja salvar o arquivo Excel.
 
 ### 6. 📊 Visualizar resultados
 
+Após a execução, um arquivo Excel será gerado com as seguintes abas:
+
+- **Inventário Completo**: Lista todos os recursos com tags.
+- **Top Tipos**: Mostra os 10 principais tipos de recursos.
+- **Recursos por Região**: Distribuição dos recursos por região.
+- **Top Tags**: Exibe as tags mais utilizadas.
+- **Gráficos**: Gráficos de pizza e barras com as informações mais relevantes.
+
 ### 7. ⚠️ Limitações da API resourcegroupstaggingapi
 
 - A API retorna apenas recursos com tags.
