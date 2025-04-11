@@ -86,6 +86,8 @@ Se preferir em vez de criar ou editar esse arquivo pode executar o seguinte coma
 aws configure --profile nome_do_perfil
 ```
 
+**OBS**: Esse nome do perfil vai ser utilizado no script `main.py`
+
 ### 5. 🖥️ Executar o script
 
 ```bash
