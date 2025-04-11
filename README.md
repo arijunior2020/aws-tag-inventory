@@ -114,6 +114,7 @@ Porém, para uma visão inicial prática e gratuita, este projeto entrega ótimo
 
 ### Contato
 
-Desenvolvido por Arimatéia Júnior
+- Desenvolvido por Arimatéia Júnior
+
 Dúvidas, sugestões ou contribuições são bem-vindas!
 [LinkedIn](https://www.linkedin.com/in/arimateiajunior/)
