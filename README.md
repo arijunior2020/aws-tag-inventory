@@ -57,7 +57,7 @@ Crie um usuário com permissões para utilizar a API de inventário:
 
 ```bash
 
-git clone https://github.com/seu-usuario/aws-tag-inventory.git
+git clone https://github.com/arijunior2020/aws-tag-inventory.git
 cd aws-tag-inventory
 
 ```
